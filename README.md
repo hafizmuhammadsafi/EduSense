@@ -500,8 +500,8 @@ Built as a semester project exploring the intersection of **AI, Computer Vision,
 
 <div align="center">
 
-Made with ❤️ for the future of education
+Made by me , Awais Sabir and Arbab Naqeeb for the future of education
 
-**[⭐ Star this repo](https://github.com/your-username/EduSense)** · **[🐛 Report a Bug](https://github.com/your-username/EduSense/issues)** · **[💡 Request a Feature](https://github.com/your-username/EduSense/issues)**
+**[⭐ Star this repo](https://github.com/hafizmuhammadsafi/EduSense)** · **[🐛 Report a Bug](https://github.com/hafizmuhammadsafi/EduSense/issues)** · **[💡 Request a Feature](https://github.com/hafizmuhammadsafi/EduSense/issues)**
 
 </div>
